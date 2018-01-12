@@ -1,0 +1,13 @@
+{
+	"app": {
+		"url": "http://localhost:3000/",
+		"admin": {
+			"username": "test.1",
+			"password": "12345"
+		},
+		"non_admin": {
+			"username": "test.2",
+			"password": "12345"
+		}
+	}
+}
